@@ -1,7 +1,7 @@
 # USmorph
 ## 1. Introduction
-`USmorph` is a machine learning framework that combines unsupervised and supervised algorithms to classify galaxy morphologies. Unlike traditional machine learning algorithms, `USmorph` does not rely on pre-labeled data and addresses the sensitivity of traditional algorithms to image orientation through an adaptive polar coordinate transformation (APCT) method. If you have used this algorithm, please cite [Song et al. 2024](https://doi.org/10.3847/1538-4365/ad434f). For detailed information about the `USmorph` algorithm, you can refer to [Zhou et al. 2022](https://doi.org/10.3847/1538-3881/ac4245), [Fang et al. 2023](https://doi.org/10.3847/1538-3881/aca1a6), [Dai et al. 2023](https://doi.org/10.3847/1538-4365/ace69e), and [Song et al. 2024](https://doi.org/10.5281/zenodo.17421185)
-dataset：[HST/ACS F814W](10.5281/zenodo.17421185)
+`USmorph` is a machine learning framework that combines unsupervised and supervised algorithms to classify galaxy morphologies. Unlike traditional machine learning algorithms, `USmorph` does not rely on pre-labeled data and addresses the sensitivity of traditional algorithms to image orientation through an adaptive polar coordinate transformation (APCT) method. If you have used this algorithm, please cite [Song et al. 2024](https://doi.org/10.3847/1538-4365/ad434f). For detailed information about the `USmorph` algorithm, you can refer to [Zhou et al. 2022](https://doi.org/10.3847/1538-3881/ac4245), [Fang et al. 2023](https://doi.org/10.3847/1538-3881/aca1a6), [Dai et al. 2023](https://doi.org/10.3847/1538-4365/ace69e), and [Song et al. 2024]((https://doi.org/10.3847/1538-4365/ad434f)
+dataset：[HST/ACS F814W](https://doi.org/10.5281/zenodo.17421185)
 ## 2. Installation instruction
 ### 2.1 Clone this repo
 You can clone this repository to your local machine using the following command:
