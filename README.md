@@ -6,7 +6,7 @@ dataset：[HST/ACS F814W](https://doi.org/10.5281/zenodo.17421185)
 ### 2.1 Clone this repo
 You can clone this repository to your local machine using the following command:
 
-```git clone https://github.com/jsong-astro/USmorph.git ```
+```git clone https://github.com/IAAA-246011/USmorph ```
 
 Alternatively, you can also download the relevant `.zip` file from the [GitHub](https://github.com/jsong-astro/USmorph) website.
 
